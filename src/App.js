@@ -32,7 +32,7 @@ function App() {
           <div className="location">Ibadan City, Nigeria</div>
           <div className="date">{dateBuilder(new Date())}</div>
         </div>
-       <div className="waether-box">
+       <div className="weather-box">
         <div className="temp">
           15°C
         </div>
